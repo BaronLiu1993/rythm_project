@@ -1,0 +1,62 @@
+#backgroundGradient{
+    height:36rem;
+    width: 100%;
+}
+
+#titleBox{
+    height:5rem;
+    width:21rem
+}
+
+#greenBoxOneContainer{
+    height: 20rem;
+    width: 100%;
+}
+
+#greenBoxOne{
+    height:24rem;
+    width: 100%;
+}
+
+
+#greenBoxTwo{
+    height:28rem;
+    width:45rem;
+}
+#whiteBoxOne{
+    height:19rem;
+    width:38rem;
+}
+#whiteBoxTwo{
+    height:2rem;
+    width:35rem;
+}
+
+
+#greenBoxThree{
+    height:28rem;
+    width:24rem;
+}
+#whiteBoxThree{
+    height:23rem;
+    width:20rem;
+}
+
+#special-button {
+    height: 20rem;
+    width: 35rem;
+}
+
+#chat_bot {
+    height: 10rem;
+    width: 5rem;
+}
+
+#chatbot-container{
+    height: 30rem;
+    width: 20rem;
+    border-radius: 4rem;
+    position: relative;
+    right: 7.5rem;
+    bottom: 7rem;
+}

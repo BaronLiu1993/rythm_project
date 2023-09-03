@@ -1,0 +1,6 @@
+#main-container {
+    background: url('./assets/wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
